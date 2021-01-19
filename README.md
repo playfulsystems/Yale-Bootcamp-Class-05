@@ -1,2 +1,2 @@
 # Yale-Bootcamp-Class-05
- Triggers, Tags, Sound, and Coroutines.
+ Triggers, Tags, Sound, and Coroutines in Unity.
